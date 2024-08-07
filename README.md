@@ -1,1 +1,1 @@
-create repo from existing project for the course
+#create a repo from an existing project for the course
